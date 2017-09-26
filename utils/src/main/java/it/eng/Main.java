@@ -3,7 +3,7 @@ package it.eng;
 public class Main {
 
 	public static void main(String[] args) {
-		int a = 30 + 40;
+		int a = 2 + 3;
 		System.out.println( a );
 	}
 
